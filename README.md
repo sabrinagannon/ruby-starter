@@ -1,12 +1,12 @@
-# 🌈 Minimal Ruby Project
+# Sabrina's Ruby Starter 🍞
 
-A template for your Ruby project!
+Ruby project template, with a few of my favourite tools in the Gemfile.
 
 # Features
 
-* Basic project structure 
+* Basic project structure
 * Rakefile and test helper to run tests
-* Github Action workflow 
+* Github Action workflow
 
 # Set up
 
@@ -14,4 +14,4 @@ Run `bundle install`
 
 # Testing
 
-Run `rake test` 
+Run `rake test`

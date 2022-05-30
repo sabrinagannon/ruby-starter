@@ -1,4 +1,9 @@
-source 'https://rubygems.org/'
+source "https://rubygems.org/"
 
-gem 'minitest'
-gem 'rake'
+gem "minitest"
+gem "guard"
+gem "guard-rake"
+gem "rake"
+gem "pry"
+gem "focus"
+gem "rdoc"
